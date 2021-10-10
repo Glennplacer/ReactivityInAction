@@ -1,9 +1,8 @@
 
 new Vue ({
-    el: '#assignment',
+    el: '#assignments',
     data: {
         counter: 0,
-        timer: 5000,
         value: 0,
         
     },
